@@ -22,9 +22,9 @@
     }
   ],
   "env": {
-    "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
-    "MONGODB_URI": "@mongodb_uri",
-    "WEBAPP_URL": "@webapp_url"
+    "TELEGRAM_BOT_TOKEN": "7207828809:AAHjNH1RzTLcjygBPd4w-A0M_aXdez3er_U",
+    "MONGODB_URI": "mongodb_uri",
+    "WEBAPP_URL": "webapp_url"
   }
 }
 
