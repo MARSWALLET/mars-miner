@@ -1,7 +1,6 @@
 {
   "name": "marsminer-bot",
   "version": "1.0.0",
-  "main": "api/webhook.ts",
   "scripts": {
     "start": "vercel dev",
     "deploy": "vercel deploy --prod"
